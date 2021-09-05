@@ -52,6 +52,7 @@ This is about class creation and JSON deserialization.
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 * [Json.NET](https://www.newtonsoft.com/json)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 
 
 
