@@ -1,0 +1,35 @@
+{
+	"EmployeeList": [{
+			"Name": "John Smith",
+			"SSN": "111111-111c",
+			"Role": "ShowelPerson",
+			"Tool": "Black and Decker Grave Digger Extra"
+		},
+		{
+			"Name": "Jane Smythe",
+			"SSN": "280984-8148",
+			"Role": "ShowelPerson",
+			"Tool": "Hewlet Packard ZBook - Bang & Olufsen"
+		},
+		{
+			"Name": "Kari Penttilä",
+			"SSN": "070959-615U",
+			"Role": "Secretary",
+			"GeneralAccessCard": true,
+			"HasForemanCalendarView": true
+		},
+		{
+			"Name": "Eeva Varis",
+			"SSN": "130568-4748",
+			"Role": "Secretary",
+			"GeneralAccessCard": false,
+			"HasForemanCalendarView": true
+		},
+		{
+			"Name": "Kaisa Lakanen",
+			"SSN": "050684-316X",
+			"Role": "Boss",
+			"YearlyBonus": 50000
+		}
+	]
+}
