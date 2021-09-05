@@ -45,6 +45,7 @@ This is about class creation and JSON deserialization.
 
 ![Product Name Screen Shot][product-screenshot]
 ![Class Diagram Screen Shot][class-screenshot]
+<img src"images/diagram.png" width="200">
 
 
 
