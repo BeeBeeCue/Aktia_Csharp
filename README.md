@@ -67,10 +67,18 @@ This is about class creation and JSON deserialization.
   ```sh
   https://dotnet.microsoft.com/download/dotnet-framework/net472
   ```
-* .Visual Studio
+* Visual Studio
   ```sh
   https://visualstudio.microsoft.com/
   ```
+* Json.Net
+  ```sh
+  PM> Install-Package Newtonsoft.Json
+  ```
+  
+  
+  
+  
 
 ### Installation
 
