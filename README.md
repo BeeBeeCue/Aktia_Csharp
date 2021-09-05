@@ -50,9 +50,9 @@ This is about class creation and JSON deserialization.
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [.NET](https://dotnet.microsoft.com/download)
+* [Json.NET](https://www.newtonsoft.com/json)
 
 
 
