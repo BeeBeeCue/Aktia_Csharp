@@ -10,7 +10,7 @@
 
 
   <h1 align="center">Aktia Task 01</h1>
-  <h2 alight="center">C# / .NET Framework</h2>
+  <h2 aligh="center">C# / .NET Framework</h2>
 
 
 <!-- TABLE OF CONTENTS -->
