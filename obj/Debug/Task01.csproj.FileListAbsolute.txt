@@ -20,3 +20,7 @@ B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.csproj.CoreCompileInputs.cache
 B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.csproj.CopyComplete
 B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.exe
 B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.pdb
+B:\_REPOSITORIES\Aktia_Csharp\bin\Debug\Task01.exe.manifest
+B:\_REPOSITORIES\Aktia_Csharp\bin\Debug\Task01.application
+B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.exe.manifest
+B:\_REPOSITORIES\Aktia_Csharp\obj\Debug\Task01.application

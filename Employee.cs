@@ -12,9 +12,13 @@ namespace Task01
 
     public class Employee
     {
+        string Name { get; set; }
+        string SSN { get; set; }
+        string Role { get; set; }
 
         public static void DoWork ()
         {
+            // JSON file is in the project
             string _path = "employees.json";
 
             try
@@ -28,7 +32,7 @@ namespace Task01
                 var customerFromJson = JsonConvert.DeserializeObject<Root>(jsonFromFile);
 
 
-
+                // Loop through the JSON
                 foreach (var employeeList in customerFromJson.EmployeeList)
                 {
 
@@ -83,7 +87,7 @@ namespace Task01
 
         bool HasGeneralAccessCard { get; set; }
     }
-
+    
     public class EmployeeList
     {
         public string Name { get; set; }
