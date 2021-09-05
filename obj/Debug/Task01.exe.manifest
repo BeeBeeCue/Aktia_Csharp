@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Task01.exe" size="9152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Task01.exe" size="8192">
       <assemblyIdentity name="Task01" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HM28eA2Faiws3tqfJ3bUjUa9cNqMac5qgUA26Gr61aQ=</dsig:DigestValue>
+        <dsig:DigestValue>xBbx20RsQ1n+h/a6Gm8OTzF92+ENhp8D4rwgXVsdffA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
