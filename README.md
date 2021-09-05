@@ -44,6 +44,7 @@ This is about class creation and JSON deserialization.
 
 
 ![Product Name Screen Shot][product-screenshot]
+![Class Diagram Screen Shot][class-screenshot]
 
 
 
@@ -120,3 +121,4 @@ This is an example of how to list things you need to use the software and how to
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/k-knutsen/
 [product-screenshot]: images/screenshot.png
+[class-screenshot]: images/diagram.png
