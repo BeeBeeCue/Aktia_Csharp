@@ -43,7 +43,7 @@ This is a small console app made in C#, .NET.
 This is about class creation and JSON deserialization.
 
 
-[!Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 
 
 
