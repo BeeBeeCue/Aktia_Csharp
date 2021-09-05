@@ -10,15 +10,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Aktia Task 01</h3>
+  <h1 align="center">Aktia Task 01</h1>
 
 
 <!-- TABLE OF CONTENTS -->
