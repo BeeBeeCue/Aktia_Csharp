@@ -43,9 +43,8 @@ This is a small console app made in C#, .NET.
 This is about class creation and JSON deserialization.
 
 
-![Product Name Screen Shot][product-screenshot]
-![Class Diagram Screen Shot][class-screenshot]
-<img src="images/diagram.png" width="500">
+<img src="images/screenshot.png" width="500">
+<img src="images/diagram.png" width="800">
 
 
 
