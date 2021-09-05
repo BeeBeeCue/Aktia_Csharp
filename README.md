@@ -38,7 +38,7 @@
 ## About The Project
 
 
-This is a small console app made in C#, .NET.
+This is a small console app made in C#, .NET Framework [4.7.2].
 This is about class creation and JSON deserialization.
 
 
@@ -49,9 +49,8 @@ This is about class creation and JSON deserialization.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [.NET](https://dotnet.microsoft.com/download)
+* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 * [Json.NET](https://www.newtonsoft.com/json)
 
 
@@ -59,15 +58,12 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* .NET
+* .NET Framework
   ```sh
-  https://dotnet.microsoft.com/download
+  https://dotnet.microsoft.com/download/dotnet-framework/net472
   ```
 
 ### Installation
