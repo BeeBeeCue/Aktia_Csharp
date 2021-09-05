@@ -71,10 +71,7 @@ This is about class creation and JSON deserialization.
   ```sh
   https://visualstudio.microsoft.com/
   ```
-* Json.Net
-  ```sh
-  PM> Install-Package Newtonsoft.Json
-  ```
+
   
   
   
